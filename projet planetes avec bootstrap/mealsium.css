@@ -1,0 +1,23 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+  background-image:url(banquise.jpg);
+  background-size: 100%
+}
+.container1{
+  font-family:'Comic Sans MS', cursive;
+  font-size: 50px;
+  color:rgb(71, 65, 58)
+}
+.container2{
+  font-family: 'Comic Sans MS', cursive;
+  font-size: 25px;
+  color:rgb(71, 65, 58)
+}
+.container3{
+  font-family: 'Comic Sans MS', cursive;
+  font-size: 15px;
+  color:rgb(71, 65, 58)
+}
